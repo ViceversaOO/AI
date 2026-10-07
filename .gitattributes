@@ -1,0 +1,4 @@
+*.md text eol=lf
+Raw/* -text
+*.pdf binary
+LLM-Wiki-참고원문.txt -text
