@@ -43,4 +43,4 @@ GitHub의 **Code → Download ZIP**으로 내려받아 Obsidian에서 열 수도
 
 과거 로그의 `../../attachments/...` 링크는 최초 클라우드 첨부 위치를 기록한 것으로 보존했습니다. 복제 후 참고문서를 읽을 때는 [보존 사본](LLM-Wiki-참고원문.txt)을 사용합니다. 이 링크 차이는 연구 원본이나 과거 작업 기록의 변경을 뜻하지 않습니다.
 
-과제 2-3의 연결된 Wiki 작성과 2-5의 신규 자료 Ingest를 수행했습니다. 다음은 여러 문서를 활용하는 Query, 이후 전체 Lint입니다. 최신 Wiki를 받으려면 GitHub Desktop에서 Fetch/Pull을 실행합니다.
+과제 2-3의 연결된 Wiki 작성과 2-5의 신규 Ingest·세 논문 비교 Query를 수행했습니다. Query 답은 [선행연구 비교](Wiki/선행연구-현금보유논문비교.md)에 저장했으며, 다음은 전체 Lint입니다. 최신 Wiki를 받으려면 GitHub Desktop에서 Fetch/Pull을 실행합니다.
